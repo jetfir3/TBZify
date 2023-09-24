@@ -1,6 +1,8 @@
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.21.1104.g42cf0a50-308.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.21.1104.g42cf0a50-307.tbz
 
+--------------------------- macOS 10.13/10.14 support ends above here --------------------------- 
+
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.20.1218.g02aff7a4-247.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.20.1218.g02aff7a4-246.tbz
 
