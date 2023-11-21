@@ -4,6 +4,9 @@ https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.25.1009.
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.24.756.g7a7fc7f0-642.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.24.756.g7a7fc7f0-642.tbz
 
+https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.24.754.g8c3af7b0-560.tbz
+https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.24.754.g8c3af7b0-559.tbz
+
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.23.1125.g920a7ada-850.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.23.1125.g920a7ada-870.tbz
 
