@@ -58,8 +58,8 @@ bash <(curl -sSL https://raw.githubusercontent.com/jetfir3/TBZify/main/tbzify.sh
 ./tbzify.sh --datawipe -v 1.2.13.661 -p $HOME/Desktop -a $HOME/Downloads -bs
 ```
 </details>
-<details>
-<summary><h3>FAQ:</h3></summary>
+
+### FAQ:
 
 **Q:** What is a TBZ file?  
 **A:** TBZ is a Bzip2 compressed TAR file. Spotify packages their macOS desktop client updates in this format.
@@ -74,14 +74,13 @@ bash <(curl -sSL https://raw.githubusercontent.com/jetfir3/TBZify/main/tbzify.sh
 **A:** Download a TBZ archive, delete your current `Spotify.app/Contents/` directory (if a previous Spotify.app doesn't exist, create a Spotify.app directory/folder), then extract the contents of the TBZ archive into your `Spotify.app` directory. This can all be done via GUI|browser/Finder or CLI|Terminal. 
 
 **Q:** Where can I find TBZ URLs?  
-**A:** The examples.txt file provided in the repo has many listed. New updates may be added as they are released, but this is not guaranteed. Thi[s](https://t.me/OfficialSpotifyUpdates) is another option.
+**A:** Try [here](https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/edit#gid=1071764554)
 
 **Q:** Why am I getting an "Invalid version/unofficial source detected." error?  
 **A:** This repo only supports downloading from Spotify's official CDN, anything else may fail. If using `-v [version]`, availability is soley based on known versions in examples.txt. If you have the URL of a version not already listed you can use it with `-u [URL]`.
 
 **Q:** Why isn't Spotify working correctly after upgrading/downgrading?  
 **A:** There may be conflicts with Spotify app data leftover from a previous install. Use `--datawipe` to delete Spotify's app data. Using `--datawipe` paired with `-u [URL]` or `-v [version]` would delete app data and install the specified app version in a single run. Issues related to Spotify bugs and/or computer/OS issues fall outside the scope of this repo but may be solved by installing a different Spotify app version and/or wiping app data.
-</details>
 
 ***
 
