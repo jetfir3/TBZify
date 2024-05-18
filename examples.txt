@@ -1,6 +1,8 @@
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.38.720.ga4a70a0e-1234.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.38.720.ga4a70a0e-1231.tbz
 
+------------------------------ macOS 10.15 support ends above here ------------------------------
+
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.37.701.ge66eb7bc-1227.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.37.701.ge66eb7bc-1226.tbz
 
