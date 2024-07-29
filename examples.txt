@@ -1,3 +1,6 @@
+https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.43.420.gc7b23f70-2567.tbz
+https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.43.420.gc7b23f70-2569.tbz
+
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.42.290.g242057a2-1353.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.42.290.g242057a2-1353.tbz
 
