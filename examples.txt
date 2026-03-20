@@ -238,6 +238,9 @@ https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.77.158.g
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.77.144.gb6198f81-47.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.77.144.gb6198f81-47.tbz
 
+https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.76.298.g2316a870-2.tbz
+https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.76.298.g2316a870-2.tbz
+
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.76.297.ga70a30a3-4.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.76.297.ga70a30a3-4.tbz
 
@@ -298,6 +301,9 @@ https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.73.465.g
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.73.451.g3cd20529-371.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.73.451.g3cd20529-363.tbz
 
+https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.72.438.g8c88c31c-1392.tbz
+https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.72.438.g8c88c31c-1384.tbz
+
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.72.437.gaf82ef12-1314.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.72.437.gaf82ef12-1306.tbz
 
@@ -345,6 +351,8 @@ https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.67.555.g
 
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.67.553.gf85dc202-139.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.67.553.gf85dc202-138.tbz
+
+------------------------------- macOS 11 support ends above here -------------------------------
 
 https://upgrade.scdn.co/upgrade/client/osx-x86_64/spotify-autoupdate-1.2.66.447.g4e37e896-538.tbz
 https://upgrade.scdn.co/upgrade/client/osx-arm64/spotify-autoupdate-1.2.66.447.g4e37e896-539.tbz
